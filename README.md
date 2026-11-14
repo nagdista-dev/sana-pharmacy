@@ -3,6 +3,8 @@
 A one-page, Arabic-first (RTL) website for a neighborhood pharmacy in Nasr City, Cairo.
 It is a **concept project**: the pharmacy, phone number and address are fictional.
 
+**Live demo:** <https://sana-pharmacy.vercel.app/>
+
 ![Sana Pharmacy — hero](docs/sana-hero.png)
 
 ## What it does
